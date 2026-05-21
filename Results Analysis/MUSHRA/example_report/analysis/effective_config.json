@@ -1,0 +1,28 @@
+{
+  "rules": {
+    "min_score": 0.0,
+    "max_score": 100.0,
+    "raw_score_min": 0.0,
+    "raw_score_max": 1.0,
+    "hidden_ref_min": 90.0,
+    "max_hidden_ref_fail_rate": 0.15,
+    "anchor_max": 20.0,
+    "max_anchor_fail_rate": 0.15,
+    "anchor_item_waiver_rate": 0.25,
+    "min_ref_anchor_delta": null,
+    "max_ref_anchor_delta_fail_rate": 0.15,
+    "screening_unit": "listener",
+    "missing_control_policy": "warn",
+    "remove_statistical_outliers": false
+  },
+  "columns": {
+    "subject_col": "subject",
+    "item_col": "item",
+    "condition_col": "condition",
+    "score_col": "score",
+    "role_col": "role",
+    "input_format": "long"
+  },
+  "waived_anchor_items": [],
+  "warnings": []
+}

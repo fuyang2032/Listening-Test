@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560">
+<style>
+text{font-family:'STHeiti','SimHei','Heiti SC','Microsoft YaHei',sans-serif;fill:#111827}
+.axis{stroke:#374151;stroke-width:1}
+.grid{stroke:#e5e7eb;stroke-width:1}
+.label{font-size:12px}
+.small{font-size:11px;fill:#4b5563}
+</style>
+<rect x="0" y="0" width="900" height="560" fill="#ffffff"/>
+<text x="70" y="28" font-size="18" font-weight="700">MUSHRA boxplot with outliers</text>
+<line class="grid" x1="70" y1="415.00" x2="870" y2="415.00"/>
+<text class="small" x="60" y="419.00" text-anchor="end">0</text>
+<line class="grid" x1="70" y1="342.00" x2="870" y2="342.00"/>
+<text class="small" x="60" y="346.00" text-anchor="end">20</text>
+<line class="grid" x1="70" y1="269.00" x2="870" y2="269.00"/>
+<text class="small" x="60" y="273.00" text-anchor="end">40</text>
+<line class="grid" x1="70" y1="196.00" x2="870" y2="196.00"/>
+<text class="small" x="60" y="200.00" text-anchor="end">60</text>
+<line class="grid" x1="70" y1="123.00" x2="870" y2="123.00"/>
+<text class="small" x="60" y="127.00" text-anchor="end">80</text>
+<line class="grid" x1="70" y1="50.00" x2="870" y2="50.00"/>
+<text class="small" x="60" y="54.00" text-anchor="end">100</text>
+<line class="axis" x1="70" y1="50" x2="70" y2="415"/>
+<line class="axis" x1="70" y1="415" x2="870" y2="415"/>
+<line x1="170.00" y1="53.65" x2="170.00" y2="59.12" stroke="#047857" stroke-width="1.5"/>
+<line x1="170.00" y1="70.08" x2="170.00" y2="75.55" stroke="#047857" stroke-width="1.5"/>
+<line x1="156.00" y1="53.65" x2="184.00" y2="53.65" stroke="#047857" stroke-width="1.5"/>
+<line x1="156.00" y1="75.55" x2="184.00" y2="75.55" stroke="#047857" stroke-width="1.5"/>
+<rect x="149.00" y="59.12" width="42.00" height="10.95" fill="#10b981" fill-opacity="0.35" stroke="#047857" stroke-width="1.5"/>
+<line x1="149.00" y1="64.60" x2="191.00" y2="64.60" stroke="#047857" stroke-width="2.2"/>
+<text class="label" x="170.00" y="433" text-anchor="end" transform="rotate(-35 170.00 433)">HiddenRef</text>
+<text class="small" x="170.00" y="449" text-anchor="middle">n=24</text>
+<line x1="370.00" y1="342.00" x2="370.00" y2="349.30" stroke="#c2410c" stroke-width="1.5"/>
+<line x1="370.00" y1="363.90" x2="370.00" y2="371.20" stroke="#c2410c" stroke-width="1.5"/>
+<line x1="356.00" y1="342.00" x2="384.00" y2="342.00" stroke="#c2410c" stroke-width="1.5"/>
+<line x1="356.00" y1="371.20" x2="384.00" y2="371.20" stroke="#c2410c" stroke-width="1.5"/>
+<rect x="349.00" y="349.30" width="42.00" height="14.60" fill="#f97316" fill-opacity="0.35" stroke="#c2410c" stroke-width="1.5"/>
+<line x1="349.00" y1="356.60" x2="391.00" y2="356.60" stroke="#c2410c" stroke-width="2.2"/>
+<text class="label" x="370.00" y="433" text-anchor="end" transform="rotate(-35 370.00 433)">Anchor</text>
+<text class="small" x="370.00" y="449" text-anchor="middle">n=24</text>
+<line x1="570.00" y1="79.20" x2="570.00" y2="92.89" stroke="#1d4ed8" stroke-width="1.5"/>
+<line x1="570.00" y1="133.95" x2="570.00" y2="152.20" stroke="#1d4ed8" stroke-width="1.5"/>
+<line x1="556.00" y1="79.20" x2="584.00" y2="79.20" stroke="#1d4ed8" stroke-width="1.5"/>
+<line x1="556.00" y1="152.20" x2="584.00" y2="152.20" stroke="#1d4ed8" stroke-width="1.5"/>
+<rect x="549.00" y="92.89" width="42.00" height="41.06" fill="#3b82f6" fill-opacity="0.35" stroke="#1d4ed8" stroke-width="1.5"/>
+<line x1="549.00" y1="111.14" x2="591.00" y2="111.14" stroke="#1d4ed8" stroke-width="2.2"/>
+<text class="label" x="570.00" y="433" text-anchor="end" transform="rotate(-35 570.00 433)">CodecA</text>
+<text class="small" x="570.00" y="449" text-anchor="middle">n=24</text>
+<line x1="770.00" y1="108.40" x2="770.00" y2="140.34" stroke="#1d4ed8" stroke-width="1.5"/>
+<line x1="770.00" y1="197.83" x2="770.00" y2="210.60" stroke="#1d4ed8" stroke-width="1.5"/>
+<line x1="756.00" y1="108.40" x2="784.00" y2="108.40" stroke="#1d4ed8" stroke-width="1.5"/>
+<line x1="756.00" y1="210.60" x2="784.00" y2="210.60" stroke="#1d4ed8" stroke-width="1.5"/>
+<rect x="749.00" y="140.34" width="42.00" height="57.49" fill="#3b82f6" fill-opacity="0.35" stroke="#1d4ed8" stroke-width="1.5"/>
+<line x1="749.00" y1="172.28" x2="791.00" y2="172.28" stroke="#1d4ed8" stroke-width="2.2"/>
+<circle cx="763.60" cy="360.25" r="3.2" fill="#111827" fill-opacity="0.82"><title>CodecB outlier: 15</title></circle>
+<text class="label" x="770.00" y="433" text-anchor="end" transform="rotate(-35 770.00 433)">CodecB</text>
+<text class="small" x="770.00" y="449" text-anchor="middle">n=24</text>
+<rect x="540" y="18" width="14" height="14" fill="#10b981" fill-opacity="0.35" stroke="#047857"/>
+<text class="small" x="560" y="30">Hidden Reference</text>
+<rect x="665" y="18" width="14" height="14" fill="#f97316" fill-opacity="0.35" stroke="#c2410c"/>
+<text class="small" x="685" y="30">Anchor</text>
+<rect x="790" y="18" width="14" height="14" fill="#3b82f6" fill-opacity="0.35" stroke="#1d4ed8"/>
+<text class="small" x="810" y="30">System</text>
+</svg>

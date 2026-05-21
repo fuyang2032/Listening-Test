@@ -1,0 +1,9 @@
+subject,trial_count,rating_count,hidden_ref_trials,hidden_ref_fail_n,hidden_ref_fail_rate,anchor_trials,anchor_fail_n,anchor_fail_rate,ref_anchor_delta_trials,ref_anchor_delta_fail_n,ref_anchor_delta_fail_rate,excluded,exclusion_reason
+S01,4,16,4,0,0,4,0,0,4,0,0,False,
+S02,4,16,4,1,0.25,4,0,0,4,0,0,True,hidden_ref_fail_rate 25.00% > 15.00%
+S03,4,16,4,0,0,4,1,0.25,4,0,0,True,anchor_fail_rate 25.00% > 15.00%
+S04,4,16,4,0,0,4,0,0,4,0,0,False,
+S05,4,16,4,0,0,4,0,0,4,0,0,False,
+S06,4,16,4,0,0,4,0,0,4,0,0,False,
+S07,4,16,4,0,0,4,0,0,4,0,0,False,
+S08,4,16,4,0,0,4,0,0,4,0,0,False,
